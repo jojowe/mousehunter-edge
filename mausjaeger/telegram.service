@@ -1,9 +1,9 @@
 [Unit]
-Description=Mausjaeger
+Description=Telegram
 After=network.target
 
 [Service]
-ExecStart=/home/devjo/Project/mousehunter-edge/mausjaeger/start_mausjaeger.sh
+ExecStart=/home/devjo/Project/mousehunter-edge/mausjaeger/start_telegram.sh
 WorkingDirectory=/home/devjo/Project/mousehunter-edge
 StandardOutput=inherit
 StandardError=inherit

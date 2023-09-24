@@ -1,2 +1,2 @@
-0  rosine-without-pray
-1  rosine-with-pray
+0  cat-without-pray
+1  cat-with-pray

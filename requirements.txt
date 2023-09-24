@@ -1,0 +1,10 @@
+RPi.GPIO
+picamera
+tflite-runtime
+watchdog
+apscheduler
+apns2
+confuse
+python-telegram-bot
+pydrive
+boto3

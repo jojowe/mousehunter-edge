@@ -4,5 +4,6 @@
 **/__pycache__
 .vscode/
 rpi-docker-elk/
-mausjaeger/images/
+images/
 imagewatcher/detections/
+mausjaeger/settings.yaml
